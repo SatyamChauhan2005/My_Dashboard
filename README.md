@@ -1,2 +1,2 @@
-# My_Dashboard
-Power BI dashboard analyzing monthly and yearly sales data.
+# Customer_Data_Dashboard
+🚀 Customer Data Dashboard is a professional Power BI project that delivers deep insights into customer behavior, segmentation, and sales trends. The dashboard features dynamic visualizations, key performance indicators (KPIs), and interactive filters for real-time exploration by region, demographics, and product category. Designed to support data-driven decision-making, this project highlights skills in data modeling, DAX, and user-focused dashboard design.
